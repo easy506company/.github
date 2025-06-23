@@ -1,6 +1,6 @@
 # easy506company
 
-A collection of projects exploring psychological influence, memetics, digital arts, and defense against deceptive patterns and psychological operations.  
+A collection of projects exploring social engineering, memetics, digital arts, and defense against deceptive patterns and psychological operations.  
 Each module contains its own playbook: insights, strategies, and raw data — self-contained, yet part of a larger cognitive architecture.
 
 ---
