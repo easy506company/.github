@@ -23,6 +23,8 @@ Each module contains its own playbook: insights, strategies, and raw data — se
 - **[cogitovirus.com](https://cogitovirus.com)**  
   The central mind linking and governing all related projects in the ecosystem.
 
+Everything’s still in early alpha — with a few more projects dropping soon.
+
 ---
 
 All knowledge and resources shared here are **open-source** — contributions are welcome.
