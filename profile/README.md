@@ -7,6 +7,9 @@ Each module contains its own playbook: insights, strategies, and raw data — se
 
 ### The Ecosystem
 
+- **[cogitovirus.com](https://cogitovirus.com)**  
+  The central mind linking and governing all related projects in the ecosystem.
+
 - **[rook2root.co](https://rook2root.co)**  
   An open-source intelligence platform documenting influence, control, and resilience strategies.  
   Includes articles, an exploits library, and an ethical playbook for understanding manipulation tactics and building individual and organizational resilience.
@@ -19,9 +22,6 @@ Each module contains its own playbook: insights, strategies, and raw data — se
 
 - **[awesome-meme](https://memetics.cc/awesome-psyop)**  
   A curated list of resources, tools, papers, and projects related to memetics.
-
-- **[cogitovirus.com](https://cogitovirus.com)**  
-  The central mind linking and governing all related projects in the ecosystem.
 
 Everything’s still in early alpha — with a few more projects dropping soon.
 
