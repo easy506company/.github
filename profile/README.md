@@ -20,7 +20,7 @@ Each module contains its own playbook: insights, strategies, and raw data — se
 - **[memetics.cc](https://memetics.cc)**  
   A research site studying how memes (ideas) multiply, evolve, and capture minds.
 
-- **[awesome-meme](https://memetics.cc/awesome-psyop)**  
+- **[awesome-meme](https://memetics.cc/awesome-meme)**  
   A curated list of resources, tools, papers, and projects related to memetics.
 
 Everything’s still in early alpha — with a few more projects dropping soon.
